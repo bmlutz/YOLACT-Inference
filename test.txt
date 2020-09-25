@@ -1,4 +1,0 @@
-#This is a test file and has no material impact
-#Testing
-#
-#Brandon Lutz
